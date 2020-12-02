@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\bin\Debug\netcoreapp3.1\POO_Aluno.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\bin\Debug\netcoreapp3.1\POO_Aluno.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\bin\Debug\netcoreapp3.1\POO_Aluno.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\bin\Debug\netcoreapp3.1\POO_Aluno.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\bin\Debug\netcoreapp3.1\POO_Aluno.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\bin\Debug\netcoreapp3.1\POO_Aluno.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\obj\Debug\netcoreapp3.1\POO_Aluno.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\obj\Debug\netcoreapp3.1\POO_Aluno.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\obj\Debug\netcoreapp3.1\POO_Aluno.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\obj\Debug\netcoreapp3.1\POO_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\obj\Debug\netcoreapp3.1\POO_Aluno.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\obj\Debug\netcoreapp3.1\POO_Aluno.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\POO_Aluno\obj\Debug\netcoreapp3.1\POO_Aluno.genruntimeconfig.cache
